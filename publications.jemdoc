@@ -1,4 +1,4 @@
-# jemdoc: menu{MENU}{publications.html}, addcss{site.css}, nofooter
+# jemdoc: menu{MENU}{publications.html}, addcss{site.css}
 = Publications
 
 My name is shown in *bold*. Publisher and open-access links are included where
@@ -28,5 +28,3 @@ available.
 == Preprints
 
 . Canhong Wen, Ruipeng Dong, Xueqin Wang, *Weiyu Li*, and Heping Zhang. [https://arxiv.org/abs/2211.15889 Simultaneous Best Subset Selection and Dimension Reduction via Primal-Dual Iterations]. /arXiv:2211.15889/.
-
-#include{footer.jemdoc}

@@ -1,7 +1,5 @@
-# jemdoc: menu{MENU}{404.html}, addcss{site.css}, nofooter
+# jemdoc: menu{MENU}{404.html}, addcss{site.css}
 = Page not found
 
 The requested page does not exist. Return to the [index.html homepage].
-
-#include{footer.jemdoc}
 

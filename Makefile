@@ -6,9 +6,8 @@ HTML := $(SOURCES:.jemdoc=.html)
 
 all: $(HTML)
 
-%.html: %.jemdoc MENU footer.jemdoc site.css jemdoc-cvx.css
+%.html: %.jemdoc MENU site.css jemdoc-cvx.css
 	$(JEMDOC) $<
 
 clean:
 	rm -f $(HTML)
-
