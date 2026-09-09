@@ -1,0 +1,38 @@
+# jemdoc: menu{MENU}{cv.html}, addcss{site.css}, nofooter
+= Curriculum Vitae
+
+The complete curriculum vitae is available as a PDF:
+
+~~~
+{}{raw}
+<p class="download-line"><a class="download-link" href="assets/Weiyu_Li_CV.pdf">Download Weiyu Li's CV (PDF)</a></p>
+~~~
+
+== Education
+
+*Ph.D. in Applied Mathematics*, Harvard University, 2020-present  
+Advisor: Professor Yue M. Lu
+
+*B.Sc. in Mathematics and Applied Mathematics*, University of Science and Technology of China, 2016-2020
+
+== Research & Industry Experience
+
+- Quantitative Research Intern, Scientech Research LLC, Summer 2024.
+- Quantitative Research Intern, Citadel | Citadel Securities, Summer 2023.
+- Research Assistant, Department of Statistics and Finance, University of Science and Technology of China, 2020-2021.
+- Research Intern, Harvard John A. Paulson School of Engineering and Applied Sciences, Summer 2019.
+
+== Programs & Academic Development
+
+- Statistics and Trustworthy AI for Cross-Domain Acceleration (STAI-X), Harvard University, 2026.
+- Pre-Concentration Advisor, Harvard University, 2024-2026.
+- Princeton Machine Learning Theory Summer School, 2024.
+- Summer School on Statistical Physics of Machine Learning, Les Houches School of Physics, 2022.
+- Master Classes in Probability, University of Strasbourg, 2020.
+
+== Skills
+
+Python, MATLAB, Julia, and R. Chinese (native) and English (fluent).
+
+#include{footer.jemdoc}
+

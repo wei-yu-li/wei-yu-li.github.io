@@ -1,0 +1,53 @@
+# jemdoc: menu{MENU}{index.html}, addcss{site.css}, nofooter
+= Weiyu Li
+
+~~~
+{}{raw}
+<div class="profile-intro">
+  <img class="profile-photo" src="assets/weiyu-li.jpg" alt="Portrait of Weiyu Li">
+  <div class="profile-copy">
+    <p class="role">Ph.D. Student in Applied Mathematics</p>
+    <p>Harvard John A. Paulson School of Engineering and Applied Sciences</p>
+    <p>Advised by <a href="https://lu.seas.harvard.edu/">Professor Yue M. Lu</a></p>
+    <nav class="profile-links" aria-label="Academic profiles">
+      <a href="mailto:weiyuli@g.harvard.edu">Email</a>
+      <a href="assets/Weiyu_Li_CV.pdf">CV</a>
+      <a href="https://seas.harvard.edu/person/weiyu-li">Harvard</a>
+      <a href="https://github.com/Weiyu-USTC">GitHub</a>
+    </nav>
+  </div>
+</div>
+~~~
+
+== About
+
+I am a Ph.D. student in Applied Mathematics at Harvard University. My research
+interests lie in high-dimensional statistics and machine learning theory,
+random matrix theory, and distributed optimization. I am particularly
+interested in developing precise mathematical characterizations of modern
+learning and inference problems.
+
+Before Harvard, I received my B.Sc. in Mathematics and Applied Mathematics
+from the School of the Gifted Young at the University of Science and Technology
+of China.
+
+== Research Areas
+
+- *High-dimensional statistics and machine learning theory:* theoretical
+  foundations for learning and inference in complex, high-dimensional models.
+- *Random matrix theory:* spectral methods and asymptotic tools for analyzing
+  high-dimensional data.
+- *Distributed optimization:* communication-efficient and robust learning over
+  decentralized systems.
+
+== Selected Publications
+
+. Jie Peng, *Weiyu Li*, Stefan Vlaski, and Qing Ling. [https://ieeexplore.ieee.org/document/11603310 Topology-Independent Learning Error of the Weighted Mean Under Label Poisoning Attacks in Heterogeneous Decentralized Learning]. /IEEE Transactions on Signal and Information Processing over Networks/, 2026.
+. Jie Peng, *Weiyu Li*, Stefan Vlaski, and Qing Ling. [https://jmlr.org/papers/v26/24-1307.html Mean Aggregator is More Robust than Robust Aggregators under Label Poisoning Attacks on Distributed Heterogeneous Data]. /Journal of Machine Learning Research/, 2025.
+. *Weiyu Li*, Zhaoxian Wu, Tianyi Chen, Liping Li, and Qing Ling. [https://doi.org/10.1109/TNNLS.2021.3083655 Communication-Censored Distributed Stochastic Gradient Descent]. /IEEE Transactions on Neural Networks and Learning Systems/, 2021.
+. *Weiyu Li*, Yaohua Liu, Zhi Tian, and Qing Ling. [https://ieeexplore.ieee.org/document/8926528 Communication-Censored Linearized ADMM for Decentralized Consensus Optimization]. /IEEE Transactions on Signal and Information Processing over Networks/, 2020.
+
+[publications.html Complete publication list]
+
+#include{footer.jemdoc}
+

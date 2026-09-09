@@ -1,0 +1,32 @@
+# jemdoc: menu{MENU}{publications.html}, addcss{site.css}, nofooter
+= Publications
+
+My name is shown in *bold*. Publisher and open-access links are included where
+available.
+
+== Journal Articles
+
+. Jie Peng, *Weiyu Li*, Stefan Vlaski, and Qing Ling. [https://ieeexplore.ieee.org/document/11603310 Topology-Independent Learning Error of the Weighted Mean Under Label Poisoning Attacks in Heterogeneous Decentralized Learning]. /IEEE Transactions on Signal and Information Processing over Networks/, 2026.
+. Jie Peng, *Weiyu Li*, Stefan Vlaski, and Qing Ling. [https://jmlr.org/papers/v26/24-1307.html Mean Aggregator is More Robust than Robust Aggregators under Label Poisoning Attacks on Distributed Heterogeneous Data]. /Journal of Machine Learning Research/, 26(27):1-51, 2025.
+. Runyu Zhang, *Weiyu Li*, and Na Li. [https://www.sciencedirect.com/science/article/abs/pii/S0005109824005545 Optimal Network Control of Spatially Exponential Decaying Linear Quadratic Regulator]. /Automatica/, 2025.
+. Jie Peng, *Weiyu Li*, and Qing Ling. [https://www.sciencedirect.com/science/article/abs/pii/S0165168424000380 Byzantine-Robust Decentralized Stochastic Optimization with Stochastic Gradient Noise-Independent Learning Error]. /Signal Processing/, 2024.
+. Feng Lin, *Weiyu Li*, and Qing Ling. [https://www.sciencedirect.com/science/article/abs/pii/S0165168422000482 Stochastic Alternating Direction Method of Multipliers for Byzantine-Robust Distributed Learning]. /Signal Processing/, 2022.
+. *Weiyu Li*, Zhaoxian Wu, Tianyi Chen, Liping Li, and Qing Ling. [https://doi.org/10.1109/TNNLS.2021.3083655 Communication-Censored Distributed Stochastic Gradient Descent]. /IEEE Transactions on Neural Networks and Learning Systems/, 2021. [https://github.com/Weiyu-USTC/CSGD Code]
+. Jie Peng, *Weiyu Li*, and Qing Ling. [https://www.sciencedirect.com/science/article/abs/pii/S0165168421000591 Byzantine-Robust Decentralized Stochastic Optimization over Static and Time-Varying Networks]. /Signal Processing/, 2021.
+. *Weiyu Li*, Yaohua Liu, Zhi Tian, and Qing Ling. [https://ieeexplore.ieee.org/document/8926528 Communication-Censored Linearized ADMM for Decentralized Consensus Optimization]. /IEEE Transactions on Signal and Information Processing over Networks/, 2020.
+
+== Conference Papers
+
+. Xiaomin Li, Mingye Gao, Zhiwei Zhang, Jingxuan Fan, and *Weiyu Li*. Data-Adaptive Safety Rules for Training Reward Models. /International Conference on Learning Representations Workshop on Bidirectional Human-AI Alignment/, 2025.
+. Jie Peng, *Weiyu Li*, and Qing Ling. [https://www.ijcai.org/proceedings/2024/530 Mean Aggregator Is More Robust than Robust Aggregators under Label Poisoning Attacks]. /International Joint Conference on Artificial Intelligence/, 2024.
+. Runyu Zhang, *Weiyu Li*, and Na Li. [https://arxiv.org/abs/2209.14376 On the Optimal Control of Network LQR with Spatially-Exponential Decaying Structure]. /American Control Conference/, 2023.
+. Runyu Zhang, Yang Zheng, *Weiyu Li*, and Na Li. [https://www.sciencedirect.com/science/article/pii/S2405896323010194 On the Relationship of Optimal State Feedback and Disturbance Response Controllers]. /World Congress of the International Federation of Automatic Control/, 2023.
+. Jie Peng, *Weiyu Li*, and Qing Ling. [https://ieeexplore.ieee.org/document/9746340 Variance Reduction-Boosted Byzantine Robustness in Decentralized Stochastic Optimization]. /IEEE International Conference on Acoustics, Speech, and Signal Processing/, 2022.
+. Feng Lin, Qing Ling, *Weiyu Li*, and Zhiwei Xiong. [https://ieeexplore.ieee.org/document/9053700 Stochastic ADMM for Byzantine-Robust Distributed Learning]. /IEEE International Conference on Acoustics, Speech, and Signal Processing/, 2020.
+. *Weiyu Li*, Yaohua Liu, Zhi Tian, and Qing Ling. [https://ieeexplore.ieee.org/document/8682575 COLA: Communication-Censored Linearized ADMM for Decentralized Consensus Optimization]. /IEEE International Conference on Acoustics, Speech, and Signal Processing/, 2019.
+
+== Preprints
+
+. Canhong Wen, Ruipeng Dong, Xueqin Wang, *Weiyu Li*, and Heping Zhang. [https://arxiv.org/abs/2211.15889 Simultaneous Best Subset Selection and Dimension Reduction via Primal-Dual Iterations]. /arXiv:2211.15889/.
+
+#include{footer.jemdoc}
